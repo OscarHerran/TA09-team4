@@ -8,7 +8,7 @@ public class Television extends Electrodomestico{
 	
 	protected double resolucion;
 	protected boolean sintonizadorTDT;
-	//Constructores
+	//Constructores !
 	
 	public Television() {
 
